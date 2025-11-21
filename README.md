@@ -2,7 +2,7 @@
 <br/> 
 
 ### 🔗 🚀 About Me 
-👨‍💻 Dedicated, Committed and Persistent about Software Development, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as a Fullstack Developer. </br>🔗
+👨‍💻 Dedicated, Committed and Persistent about Software Development, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as a Fullstack Developer. </br>
 🌱 I’m currently learning  React. <br/>
 
 ### 📖 Education
